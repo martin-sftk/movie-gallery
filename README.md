@@ -4,10 +4,10 @@ Aplicación desarrollada con el fin de completar el Code Challenge de [Softtek-C
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](screenshots/screenshot1.png)
-![Captura de Pantalla 2](screenshots/screenshot2.png)
-![Captura de Pantalla 3](screenshots/screenshot3.png)
-![Captura de Pantalla 4](screenshots/screenshot4.png)
+| Imagen 1 | Imagen 2 | Imagen 3 | Imagen 4 |
+|:--------:|:--------:|:--------:|:--------:|
+| ![Imagen 1](screenshots/screenshot1.png) | ![Imagen 2](screenshots/screenshot2.png) | ![Imagen 3](screenshots/screenshot3.png) | ![Imagen 4](screenshots/screenshot4.png) |
+
 
 ## Requisitos
 
